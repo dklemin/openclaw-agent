@@ -1,8 +1,0 @@
-[server]
-headless = true
-port = 8501
-
-[theme]
-primaryColor = "#6366f1"
-backgroundColor = "#ffffff"
-secondaryBackgroundColor = "#f0f2f6"
